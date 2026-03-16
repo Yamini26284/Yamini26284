@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yamini 👋
 
-<!--
-**Yamini26284/Yamini26284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build LLM applications and agentic AI systems.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🤖 Real-time AI agents with multimodal capabilities
+- 🔍 RAG pipelines and context engineering
+- ⚡ Production-ready AI backends with FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | What it does |
+|---|---|
+| [Vision Agent](github link) | Real-time AI interviewer with body language detection |
+| [LinkedIn Post Generator](github link) | LLM-powered content generator, live demo available |
+| [Context Excavator](github link) | Reduces LLM token usage 40-50% via semantic code filtering |
+
+## Stack
+Python · LangChain · FastAPI · Gemini · YOLO · Vector DBs · Streamlit
+
+📫 yamini26284@gmail.com
