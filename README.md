@@ -10,7 +10,7 @@ I build LLM applications and agentic AI systems.
 ## Projects
 | Project | What it does |
 |---|---|
-| [Vision Agent](github link) | Real-time AI interviewer with body language detection |
+| [Vision Agent]([github link](https://github.com/Yamini26284/Vision-Agent)) | Real-time AI interviewer with body language detection |
 | [LinkedIn Post Generator]([github link](https://github.com/Yamini26284/Linkedin-Post-Generator)) | LLM-powered content generator, live demo available |
 | [Context Excavator](github link) | Reduces LLM token usage 40-50% via semantic code filtering |
 
