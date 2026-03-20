@@ -18,3 +18,4 @@ I build LLM applications and agentic AI systems.
 Python · LangChain · FastAPI · Gemini · YOLO · Vector DBs · Streamlit
 
 📫 yamini26284@gmail.com
+Linkedin : https://www.linkedin.com/in/yamini26284/
